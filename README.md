@@ -16,7 +16,7 @@ logger.log(LogLevel.INFO, "E")
 ### logger options
 #### date: enables the display of the date next to the message
 ![ss1](https://cdn.wiktor.tech/files/wiktor/webstorm64_850XebbcwY.png)
-```
+```js
 logger.set({date: true})
 ```
 

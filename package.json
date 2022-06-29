@@ -2,7 +2,7 @@
   "name": "better-logging",
   "version": "1.0.0",
   "description": "Better javascript logger",
-  "main": "index.js",
+  "main": "/lib/main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

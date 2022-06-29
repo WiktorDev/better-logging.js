@@ -1,0 +1,23 @@
+{
+  "name": "better-logging",
+  "version": "1.0.0",
+  "description": "Better javascript logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WiktorDev/better-logging.js.git"
+  },
+  "keywords": [
+    "logger",
+    "log"
+  ],
+  "author": "wiktor#8880",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WiktorDev/better-logging.js/issues"
+  },
+  "homepage": "https://github.com/WiktorDev/better-logging.js#readme"
+}

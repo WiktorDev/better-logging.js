@@ -19,3 +19,6 @@ logger.log(LogLevel.INFO, "E")
 ```
 logger.set({date: true})
 ```
+
+### Logger
+![ss2](https://cdn.wiktor.tech/files/wiktor/webstorm64_R7IAS6Kcn1.png)
